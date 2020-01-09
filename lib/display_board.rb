@@ -19,3 +19,5 @@ puts ("-----------")
 puts (" game_board#{6},|game_board#{7},|game_board#{8}")
   
 end
+
+display_board
